@@ -1,0 +1,19 @@
+.certificate{
+    padding: 1em;
+    margin: 0 auto;
+    text-align: center;
+    box-shadow: var(--shadow);
+    transition: transform 0.2s linear;
+    font-weight: bolder;
+    font-size: 1.2em;
+    width: 20em;
+}
+
+.certificate:hover {
+    transform: translateY(-7px);
+  }
+
+.details{
+    font-size: 0.7em;
+    margin: 0 auto;
+}

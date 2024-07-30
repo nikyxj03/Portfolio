@@ -1,0 +1,21 @@
+.created{
+    text-align:center;
+    margin-top: 5em;
+    margin-bottom: 3em;
+
+
+}
+
+.footer__link {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--clr-fg);
+    text-decoration: none;
+  }
+
+  @media (max-width: 600px) {
+    .footer {
+      padding: 2em;
+      margin-top: 3em;
+    }
+  }

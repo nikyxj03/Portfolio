@@ -1,0 +1,33 @@
+.App-header {
+    
+  min-height: 10vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    font-size: calc(1px + 2vmin);
+    flex-wrap: wrap;
+    padding-right: 15em;
+    padding-top : 1.5em;
+    flex:1;
+  }
+
+.Nav-list {
+    display: flex;
+    list-style: none;
+    gap: 1.5em;
+    justify-content: flex-end;
+}
+
+.header{
+  display: flex;
+  flex-direction: row;
+
+}
+.initial{
+  display: flex;
+  justify-content: flex-start;
+  min-height: 10vh;
+  flex: 3;
+  padding-right: 15em;
+    padding-top : 1.5em;
+}

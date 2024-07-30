@@ -1,0 +1,49 @@
+.name{
+    font-size: 5em;
+   
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    padding-top : 4rem;
+    
+}
+
+.job{
+    font-size: 2em;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    
+    padding-top: 1em;
+    
+}
+
+.desc{
+    font-size: 1.1em;
+    display: flex;
+    justify-content: center;
+    margin-left: 22rem;
+    padding-top:  1.7em;
+    margin-right: 22rem;
+    
+}
+
+.conn{
+    font-size: 1.2em;
+    display: flex;
+    justify-content: center;
+ 
+    padding-top:  3em;
+    
+}
+
+.link--icon {
+   padding-left: 0.8em;
+   font-size: 30px;
+  }
+
+  
+.high{
+    margin-left: 0.3em;
+    color: #fcfcfc 
+}

@@ -1,0 +1,11 @@
+.title{
+    text-align: center;
+    font-weight: bold;
+    text-transform:  uppercase;
+    padding-top: 2.5em;
+    margin-bottom: 1em;
+}
+.line {    
+    display: flex;
+    justify-content: center;
+}
